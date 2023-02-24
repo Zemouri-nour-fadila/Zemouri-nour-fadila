@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React js**
 
-- 📝 I regularly write articles on [https://medium.com/@zemouri.nf15](https://medium.com/@zemouri.nf15)
+- 📝 I regularly write articles on [https://medium.com/@nour.fadila.zemouri](https://medium.com/@nour.fadila.zemouri)
 
 - ⚡ Fun fact **Dad jokes makes me laugh**
 
